@@ -8,4 +8,3 @@ let when = ['before the class','right on time','when I finished','during my lunc
 let parte4 = Math.floor(Math.random()* 3);
  
 document.querySelector("#excuse").innerHTML= who[parte1] + "" + action[parte2] + "" + what[parte3] + "" + when[parte4];
-
